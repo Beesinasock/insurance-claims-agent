@@ -1,0 +1,24 @@
+First Notice of Loss (FNOL)
+
+Policy Number: POL100001
+Policyholder Name: John Smith
+Effective Dates: 01-01-2026 to 31-12-2026
+
+Incident Date: 05-07-2026
+Incident Time: 02:30 PM
+Location: MG Road, Bengaluru
+
+Description:
+While driving, another vehicle lightly collided with my car at a traffic signal.
+
+Claimant: John Smith
+Third Parties: Rahul Sharma
+Contact Details: +91 9876543210
+
+Asset Type: Car
+Asset ID: KA01AB1234
+Estimated Damage: 18000
+
+Claim Type: Vehicle Damage
+Attachments: photos.zip
+Initial Estimate: 18000

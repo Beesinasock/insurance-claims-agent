@@ -1,0 +1,24 @@
+First Notice of Loss (FNOL)
+
+Policy Number: POL100004
+Policyholder Name: Sneha Rao
+Effective Dates: 01-01-2026 to 31-12-2026
+
+Incident Date: 04-07-2026
+Incident Time: 08:20 PM
+Location: Indiranagar, Bengaluru
+
+Description:
+The claimant suffered injuries after a motorcycle collision.
+
+Claimant: Sneha Rao
+Third Parties: Ramesh Gowda
+Contact Details: +91 9012345678
+
+Asset Type: Motorcycle
+Asset ID: KA03GH3456
+Estimated Damage: 45000
+
+Claim Type: Injury
+Attachments: medical_report.pdf
+Initial Estimate: 45000

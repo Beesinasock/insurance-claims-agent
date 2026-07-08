@@ -1,0 +1,24 @@
+First Notice of Loss (FNOL)
+
+Policy Number: POL100005
+Policyholder Name: Vikram Reddy
+Effective Dates: 01-01-2026 to 31-12-2026
+
+Incident Date: 07-07-2026
+Incident Time: 05:45 PM
+Location: Mysuru Road, Bengaluru
+
+Description:
+Minor side collision while changing lanes.
+
+Claimant: Vikram Reddy
+Third Parties: Suresh Patel
+Contact Details: +91 9345678901
+
+Asset Type: Car
+Asset ID: KA41JK7890
+Estimated Damage: 35000
+
+Claim Type: Vehicle Damage
+Attachments: images.zip
+Initial Estimate: 35000

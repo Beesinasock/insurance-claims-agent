@@ -1,0 +1,24 @@
+First Notice of Loss (FNOL)
+
+Policy Number: POL100002
+Policyholder Name: Priya Nair
+Effective Dates: 01-01-2026 to 31-12-2026
+
+Incident Date: 06-07-2026
+
+Location: Whitefield, Bengaluru
+
+Description:
+My parked vehicle was damaged by an unknown vehicle.
+
+Claimant: Priya Nair
+Third Parties: Unknown
+Contact Details: +91 9123456780
+
+Asset Type: Car
+Asset ID: KA05CD5678
+Estimated Damage: 22000
+
+Claim Type: Vehicle Damage
+Attachments: image.jpg
+Initial Estimate: 22000
