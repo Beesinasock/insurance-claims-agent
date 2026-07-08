@@ -300,7 +300,9 @@ output/claim1.json
 ---
 
 ## Demo Video
+```text
 https://drive.google.com/file/d/1oZiby35GDlNG-dw7y5bXZCW-KaEh36IS/view?usp=sharing
+```
 
 ---
 
