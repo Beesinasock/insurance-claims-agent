@@ -1,5 +1,11 @@
 # Autonomous Insurance Claims Processing Agent
 
+## Developed By
+
+**Chandresh Kushal G R**
+
+---
+
 ## Overview
 
 This project implements a lightweight **Autonomous Insurance Claims Processing Agent** that automates the initial processing of First Notice of Loss (FNOL) documents.
